@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://quickdevtools.pages.dev</loc><priority>1.0</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/about</loc><priority>0.3</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/privacy</loc><priority>0.2</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/terms</loc><priority>0.2</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/json-formatter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/base64-encoder-decoder</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/url-encoder-decoder</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/jwt-decoder</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/uuid-generator</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/developer/hash-generator</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/color/color-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/color/color-palette-generator</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/color/css-gradient-generator</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/text/word-counter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/text/case-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/text/lorem-ipsum-generator</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/converter/image-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/converter/csv-json-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://quickdevtools.pages.dev/tools/converter/unix-timestamp-converter</loc><priority>0.8</priority></url>
+</urlset>
