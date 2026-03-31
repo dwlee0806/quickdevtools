@@ -193,13 +193,17 @@ export default function Header() {
               className="fixed inset-0 z-[60] bg-black/40 dark:bg-black/60 backdrop-blur-sm"
               onClick={closeSearch}
             />
-            <div className="fixed inset-0 z-[61] flex items-start justify-center pt-[15vh] px-4">
+            <div
+              className="fixed inset-0 z-[61] flex items-start justify-center pt-[15vh] px-4"
+              onClick={closeSearch}
+            >
               <motion.div
                 initial={{ opacity: 0, scale: 0.96, y: -10 }}
                 animate={{ opacity: 1, scale: 1, y: 0 }}
                 exit={{ opacity: 0, scale: 0.96, y: -10 }}
                 transition={{ duration: 0.15 }}
                 className="w-full max-w-lg glass-card rounded-2xl shadow-2xl overflow-hidden"
+                onClick={(e) => e.stopPropagation()}
               >
                 <div className="flex items-center gap-3 px-4 py-3 border-b border-border dark:border-border-dark">
                   <Search className="w-4.5 h-4.5 text-text-muted dark:text-text-muted-dark shrink-0" />
